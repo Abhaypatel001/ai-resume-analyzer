@@ -1,4 +1,4 @@
-🚀 LIVE LINK: https://ai-resume-analyzer-frontend-inhrp1tc4-abhay-patel.vercel.app
+🚀 LIVE LINK: https://ai-resume-analyzer-frontend-kohl.vercel.app
 
 
 # 🤖 AI Resume Analyzer
