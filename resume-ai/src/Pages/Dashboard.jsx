@@ -26,7 +26,7 @@ function Dashboard() {
         console.log("Token exists:", !!token);
 
         const response = await axios.get(
-          "http://localhost:5000/api/user/dashboard",
+          "https://ai-resume-analyzer-backend-9mqo.onrender.com/api/user/dashboard",
           {
             headers: {
               Authorization: `Bearer ${token}`,

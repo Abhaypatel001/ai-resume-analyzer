@@ -123,7 +123,7 @@ function UploadResume() {
       // -------------------------------------
 
       const response = await fetch(
-        "http://localhost:5000/api/resume/upload",
+        "https://ai-resume-analyzer-backend-9mqo.onrender.com/api/resume/upload",
         {
           method: "POST",
 

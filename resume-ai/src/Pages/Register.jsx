@@ -139,7 +139,7 @@ function Register() {
       console.log("Email:", email);
 
       const response = await axios.post(
-        "http://localhost:5000/api/auth/register",
+        "https://ai-resume-analyzer-backend-9mqo.onrender.com/api/auth/register",
         {
           fullName,
           email,

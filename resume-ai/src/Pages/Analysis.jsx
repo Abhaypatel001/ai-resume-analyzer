@@ -37,7 +37,7 @@ function Analysis() {
         // IMPORTANT:
         // Backend route = GET /api/resume/:id
         const response = await fetch(
-          `http://localhost:5000/api/resume/${id}`,
+          `https://ai-resume-analyzer-backend-9mqo.onrender.com/api/resume/${id}`,
           {
             method: "GET",
             headers: {
