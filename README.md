@@ -1,3 +1,5 @@
+# LIVE LINK : ai-resume-analyzer-frontend-kohl.vercel.app
+
 # 🤖 AI Resume Analyzer
 
 An AI-powered resume analysis platform built using the **MERN Stack** and **Google Gemini AI**. The application helps users analyze their resumes, identify skills, discover skill gaps, receive AI-powered recommendations, and understand how well their resume matches potential job opportunities.
